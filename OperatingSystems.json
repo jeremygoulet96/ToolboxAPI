@@ -11,6 +11,11 @@
             "name": "Android",
             "logo": "OS/AndroidLogo",
             "lastStableVersion": "8.1"
+         },
+         {
+            "name": "Phone",
+            "logo": "OS/WindowsLogo",
+            "lastStableVersion": "8.1"
          }
       ]
    },
