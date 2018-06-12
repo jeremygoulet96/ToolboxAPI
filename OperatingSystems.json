@@ -1,0 +1,47 @@
+[
+   {
+      "category": "mobile",
+      "systems": [
+         {
+            "name": "iOS",
+            "logo": "OS/AppleLogo",
+            "lastStableVersion": "11.4"
+         },
+         {
+            "name": "Android",
+            "logo": "OS/AndroidLogo",
+            "lastStableVersion": "8.1"
+         }
+      ]
+   },
+   {
+      "category": "computer",
+      "systems": [
+         {
+            "name": "macOS",
+            "logo": "OS/AppleLogo",
+            "lastStableVersion": "11.12.24"
+         },
+         {
+            "name": "Windows 10",
+            "logo": "OS/WindowsLogo",
+            "lastStableVersion": "Build 1803"
+         }
+      ]
+   },
+   {
+      "category": "consoles",
+      "systems": [
+         {
+            "name": "PlayStation",
+            "logo": "OS/PlayStationLogo",
+            "lastStableVersion": "9.9.9"
+         },
+         {
+            "name": "Xbox",
+            "logo": "OS/XboxLogo",
+            "lastStableVersion": "9.9.8"
+         }
+      ]
+   }
+]
