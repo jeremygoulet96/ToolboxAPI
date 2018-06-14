@@ -1,0 +1,240 @@
+[
+   {
+      "manufacturer": "Acer",
+      "options": [
+         {
+            "id": "bootMenuKey",
+            "name_en": "Boot Menu Key",
+            "name_fr": "Touche du menu de démarrage",
+            "key": "F12"
+         },
+         {
+           "id": "biosKey",
+           "name_en": "BIOS Key",
+           "name_fr": "Touche du BIOS",
+           "key": "F2"
+         }
+      ]
+   },
+   {
+      "manufacturer": "Apple (macOS)",
+      "options": [
+         {
+            "id": "bootMenuKey",
+            "name_en": "Boot Menu Key",
+            "name_fr": "Touche du menu de démarrage",
+            "key": "Alt/Option"
+         },
+         {
+           "id": "biosKey",
+           "name_en": "Recovery Key",
+           "name_fr": "Touches du mode récupération",
+           "key": "CMD+R"
+         }
+      ]
+   },
+   {
+      "manufacturer": "Asus",
+      "options": [
+         {
+            "id": "bootMenuKey",
+            "name_en": "Boot Menu Key",
+            "name_fr": "Touche du menu de démarrage",
+            "key": "F8/Esc"
+         },
+         {
+           "id": "biosKey",
+           "name_en": "BIOS Key",
+           "name_fr": "Touche du BIOS",
+           "key": "F9/F2"
+         }
+      ]
+   },
+   {
+      "manufacturer": "Dell",
+      "options": [
+         {
+            "id": "bootMenuKey",
+            "name_en": "Boot Menu Key",
+            "name_fr": "Touche du menu de démarrage",
+            "key": "F12"
+         },
+         {
+           "id": "biosKey",
+           "name_en": "BIOS Key",
+           "name_fr": "Touche du BIOS",
+           "key": "F2"
+         }
+      ]
+   },
+   {
+      "manufacturer": "eMachines",
+      "options": [
+         {
+            "id": "bootMenuKey",
+            "name_en": "Boot Menu Key",
+            "name_fr": "Touche du menu de démarrage",
+            "key": "F12"
+         },
+         {
+           "id": "biosKey",
+           "name_en": "BIOS Key",
+           "name_fr": "Touche du BIOS",
+           "key": "Tab/Del"
+         }
+      ]
+   },
+   {
+      "manufacturer": "Gateway",
+      "options": [
+         {
+            "id": "bootMenuKey",
+            "name_en": "Boot Menu Key",
+            "name_fr": "Touche du menu de démarrage",
+            "key": "Esc/F10/F12"
+         },
+         {
+           "id": "biosKey",
+           "name_en": "BIOS Key",
+           "name_fr": "Touche du BIOS",
+           "key": "F1/F2/Del"
+         }
+      ]
+   },
+   {
+      "manufacturer": "HP",
+      "options": [
+         {
+            "id": "bootMenuKey",
+            "name_en": "Boot Menu Key",
+            "name_fr": "Touche du menu de démarrage",
+            "key": "Esc"
+         },
+         {
+           "id": "biosKey",
+           "name_en": "BIOS Key",
+           "name_fr": "Touche du BIOS",
+           "key": "Esc"
+         }
+      ]
+   },
+   {
+      "manufacturer": "IBM",
+      "options": [
+         {
+            "id": "bootMenuKey",
+            "name_en": "Boot Menu Key",
+            "name_fr": "Touche du menu de démarrage",
+            "key": "F12"
+         },
+         {
+           "id": "biosKey",
+           "name_en": "BIOS Key",
+           "name_fr": "Touche du BIOS",
+           "key": "F2"
+         }
+      ]
+   },
+   {
+      "manufacturer": "Lenovo",
+      "options": [
+         {
+            "id": "bootMenuKey",
+            "name_en": "Boot Menu Key",
+            "name_fr": "Touche du menu de démarrage",
+            "key": "F12/Novo Key"
+         },
+         {
+           "id": "biosKey",
+           "name_en": "BIOS Key",
+           "name_fr": "Touche du BIOS",
+           "key": "F1/F2/Novo Key"
+         }
+      ]
+   },
+   {
+      "manufacturer": "NEC",
+      "options": [
+         {
+            "id": "bootMenuKey",
+            "name_en": "Boot Menu Key",
+            "name_fr": "Touche du menu de démarrage",
+            "key": "F5"
+         },
+         {
+           "id": "biosKey",
+           "name_en": "BIOS Key",
+           "name_fr": "Touche du BIOS",
+           "key": "F2"
+         }
+      ]
+   },
+   {
+      "manufacturer": "Packard Bell",
+      "options": [
+         {
+            "id": "bootMenuKey",
+            "name_en": "Boot Menu Key",
+            "name_fr": "Touche du menu de démarrage",
+            "key": "F8"
+         },
+         {
+           "id": "biosKey",
+           "name_en": "BIOS Key",
+           "name_fr": "Touche du BIOS",
+           "key": "F1/Del"
+         }
+      ]
+   },
+   {
+      "manufacturer": "Samsung",
+      "options": [
+         {
+            "id": "bootMenuKey",
+            "name_en": "Boot Menu Key",
+            "name_fr": "Touche du menu de démarrage",
+            "key": "F10/Esc"
+         },
+         {
+           "id": "biosKey",
+           "name_en": "BIOS Key",
+           "name_fr": "Touche du BIOS",
+           "key": "F2"
+         }
+      ]
+   },
+   {
+      "manufacturer": "Sony",
+      "options": [
+         {
+            "id": "bootMenuKey",
+            "name_en": "Boot Menu Key",
+            "name_fr": "Touche du menu de démarrage",
+            "key": "F11"
+         },
+         {
+           "id": "biosKey",
+           "name_en": "BIOS Key",
+           "name_fr": "Touche du BIOS",
+           "key": "F1/F2/F3"
+         }
+      ]
+   },
+   {
+      "manufacturer": "Toshiba",
+      "options": [
+         {
+            "id": "bootMenuKey",
+            "name_en": "Boot Menu Key",
+            "name_fr": "Touche du menu de démarrage",
+            "key": "F12"
+         },
+         {
+           "id": "biosKey",
+           "name_en": "BIOS Key",
+           "name_fr": "Touche du BIOS",
+           "key": "F2"
+         }
+      ]
+   }
+]
