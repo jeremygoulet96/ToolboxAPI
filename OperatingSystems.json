@@ -10,12 +10,7 @@
          {
             "name": "Android",
             "logo": "OS/AndroidLogo",
-            "lastStableVersion": "8.1"
-         },
-         {
-            "name": "Phone",
-            "logo": "OS/WindowsLogo",
-            "lastStableVersion": "8.1"
+            "lastStableVersion": "8.1 “Oreo”"
          }
       ]
    },
@@ -25,12 +20,17 @@
          {
             "name": "macOS",
             "logo": "OS/AppleLogo",
-            "lastStableVersion": "11.12.24"
+            "lastStableVersion": "10.13.5"
          },
          {
             "name": "Windows 10",
             "logo": "OS/WindowsLogo",
             "lastStableVersion": "Build 1803"
+         },
+         {
+            "name": "Ubuntu",
+            "logo": "OS/AppleLogo",
+            "lastStableVersion": "18.04"
          }
       ]
    },
@@ -40,12 +40,22 @@
          {
             "name": "PlayStation",
             "logo": "OS/PlayStationLogo",
-            "lastStableVersion": "9.9.9"
+            "lastStableVersion": "5.5.5"
          },
          {
             "name": "Xbox",
             "logo": "OS/XboxLogo",
-            "lastStableVersion": "9.9.8"
+            "lastStableVersion": "10.0.17134.3036"
+         },
+         {
+            "name": "Switch",
+            "logo": "OS/SwitchLogo",
+            "lastStableVersion": "5.1.0"
+         },
+         {
+            "name": "",
+            "logo": "OS/WiiULogo",
+            "lastStableVersion": "5.5.2U"
          }
       ]
    }
