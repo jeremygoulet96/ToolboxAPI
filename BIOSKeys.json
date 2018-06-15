@@ -1,6 +1,7 @@
 [
    {
       "manufacturer": "Acer",
+      "logo": "Manufacturers/AcerLogo",
       "options": [
          {
             "id": "bootMenuKey",
@@ -18,6 +19,7 @@
    },
    {
       "manufacturer": "Apple (macOS)",
+      "logo": "Manufacturers/AppleLogo",
       "options": [
          {
             "id": "bootMenuKey",
@@ -35,6 +37,7 @@
    },
    {
       "manufacturer": "Asus",
+      "logo": "Manufacturers/AsusLogo",
       "options": [
          {
             "id": "bootMenuKey",
@@ -52,6 +55,7 @@
    },
    {
       "manufacturer": "Dell",
+      "logo": "Manufacturers/DellLogo",
       "options": [
          {
             "id": "bootMenuKey",
@@ -69,6 +73,7 @@
    },
    {
       "manufacturer": "eMachines",
+      "logo": "Manufacturers/eMachinesLogo",
       "options": [
          {
             "id": "bootMenuKey",
@@ -86,6 +91,7 @@
    },
    {
       "manufacturer": "Gateway",
+      "logo": "Manufacturers/GatewayLogo",
       "options": [
          {
             "id": "bootMenuKey",
@@ -103,6 +109,7 @@
    },
    {
       "manufacturer": "HP",
+      "logo": "Manufacturers/HPLogo",
       "options": [
          {
             "id": "bootMenuKey",
@@ -120,6 +127,7 @@
    },
    {
       "manufacturer": "IBM",
+      "logo": "Manufacturers/IBMLogo",
       "options": [
          {
             "id": "bootMenuKey",
@@ -137,6 +145,7 @@
    },
    {
       "manufacturer": "Lenovo",
+      "logo": "Manufacturers/LenovoLogo",
       "options": [
          {
             "id": "bootMenuKey",
@@ -154,6 +163,7 @@
    },
    {
       "manufacturer": "NEC",
+      "logo": "Manufacturers/NECLogo",
       "options": [
          {
             "id": "bootMenuKey",
@@ -171,6 +181,7 @@
    },
    {
       "manufacturer": "Packard Bell",
+      "logo": "Manufacturers/PackardBellLogo",
       "options": [
          {
             "id": "bootMenuKey",
@@ -188,6 +199,7 @@
    },
    {
       "manufacturer": "Samsung",
+      "logo": "Manufacturers/SamsungLogo",
       "options": [
          {
             "id": "bootMenuKey",
@@ -205,6 +217,7 @@
    },
    {
       "manufacturer": "Sony",
+      "logo": "Manufacturers/SonyLogo",
       "options": [
          {
             "id": "bootMenuKey",
@@ -222,6 +235,7 @@
    },
    {
       "manufacturer": "Toshiba",
+      "logo": "Manufacturers/ToshibaLogo",
       "options": [
          {
             "id": "bootMenuKey",
