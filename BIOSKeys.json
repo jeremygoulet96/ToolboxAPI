@@ -30,7 +30,7 @@
             "key": "Alt/Option"
          },
          {
-           "id": "biosKey",
+           "id": "recoveryKey",
            "name_en": "Recovery Key",
            "name_fr": "Touches du mode récupération",
            "key": "CMD+R"
