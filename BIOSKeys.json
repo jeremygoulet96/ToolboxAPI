@@ -1,5 +1,6 @@
 [
    {
+      "id": "acer",
       "manufacturer": "Acer",
       "logo": "Manufacturers/AcerLogo",
       "options": [
@@ -18,6 +19,7 @@
       ]
    },
    {
+      "id": "apple",
       "manufacturer": "Apple (macOS)",
       "logo": "Manufacturers/AppleLogo",
       "options": [
@@ -36,6 +38,7 @@
       ]
    },
    {
+      "id": "asus",
       "manufacturer": "Asus",
       "logo": "Manufacturers/AsusLogo",
       "options": [
@@ -54,6 +57,7 @@
       ]
    },
    {
+      "id": "dell",
       "manufacturer": "Dell",
       "logo": "Manufacturers/DellLogo",
       "options": [
@@ -72,6 +76,7 @@
       ]
    },
    {
+      "id": "emachines",
       "manufacturer": "eMachines",
       "logo": "Manufacturers/eMachinesLogo",
       "options": [
@@ -90,6 +95,7 @@
       ]
    },
    {
+      "id": "gateway",
       "manufacturer": "Gateway",
       "logo": "Manufacturers/GatewayLogo",
       "options": [
@@ -108,6 +114,7 @@
       ]
    },
    {
+      "id": "hp",
       "manufacturer": "HP",
       "logo": "Manufacturers/HPLogo",
       "options": [
@@ -126,6 +133,7 @@
       ]
    },
    {
+      "id": "ibm",
       "manufacturer": "IBM",
       "logo": "Manufacturers/IBMLogo",
       "options": [
@@ -144,6 +152,7 @@
       ]
    },
    {
+      "id": "lenovo",
       "manufacturer": "Lenovo",
       "logo": "Manufacturers/LenovoLogo",
       "options": [
@@ -162,6 +171,7 @@
       ]
    },
    {
+      "id": "nec",
       "manufacturer": "NEC",
       "logo": "Manufacturers/NECLogo",
       "options": [
@@ -180,6 +190,7 @@
       ]
    },
    {
+      "id": "packardbell",
       "manufacturer": "Packard Bell",
       "logo": "Manufacturers/PackardBellLogo",
       "options": [
@@ -198,6 +209,7 @@
       ]
    },
    {
+      "id": "samsung",
       "manufacturer": "Samsung",
       "logo": "Manufacturers/SamsungLogo",
       "options": [
@@ -216,6 +228,7 @@
       ]
    },
    {
+      "id": "sony",
       "manufacturer": "Sony",
       "logo": "Manufacturers/SonyLogo",
       "options": [
@@ -234,6 +247,7 @@
       ]
    },
    {
+      "id": "toshiba",
       "manufacturer": "Toshiba",
       "logo": "Manufacturers/ToshibaLogo",
       "options": [
