@@ -2,7 +2,7 @@
    {
       "id": "acer",
       "manufacturer": "Acer",
-      "logo": "Manufacturers/AcerLogo",
+      "logo": "Manufacturers/acer",
       "options": [
          {
             "id": "bootMenuKey",
@@ -20,8 +20,8 @@
    },
    {
       "id": "apple",
-      "manufacturer": "Apple (macOS)",
-      "logo": "Manufacturers/AppleLogo",
+      "manufacturer": "Apple",
+      "logo": "Manufacturers/apple",
       "options": [
          {
             "id": "bootMenuKey",
@@ -39,8 +39,8 @@
    },
    {
       "id": "asus",
-      "manufacturer": "Asus",
-      "logo": "Manufacturers/AsusLogo",
+      "manufacturer": "ASUS",
+      "logo": "Manufacturers/asus",
       "options": [
          {
             "id": "bootMenuKey",
@@ -59,7 +59,7 @@
    {
       "id": "dell",
       "manufacturer": "Dell",
-      "logo": "Manufacturers/DellLogo",
+      "logo": "Manufacturers/dell",
       "options": [
          {
             "id": "bootMenuKey",
@@ -78,7 +78,7 @@
    {
       "id": "emachines",
       "manufacturer": "eMachines",
-      "logo": "Manufacturers/eMachinesLogo",
+      "logo": "Manufacturers/emachines",
       "options": [
          {
             "id": "bootMenuKey",
@@ -97,7 +97,7 @@
    {
       "id": "gateway",
       "manufacturer": "Gateway",
-      "logo": "Manufacturers/GatewayLogo",
+      "logo": "Manufacturers/gateway",
       "options": [
          {
             "id": "bootMenuKey",
@@ -116,7 +116,7 @@
    {
       "id": "hp",
       "manufacturer": "HP",
-      "logo": "Manufacturers/HPLogo",
+      "logo": "Manufacturers/hp",
       "options": [
          {
             "id": "bootMenuKey",
@@ -135,7 +135,7 @@
    {
       "id": "ibm",
       "manufacturer": "IBM",
-      "logo": "Manufacturers/IBMLogo",
+      "logo": "Manufacturers/ibm",
       "options": [
          {
             "id": "bootMenuKey",
@@ -154,7 +154,7 @@
    {
       "id": "lenovo",
       "manufacturer": "Lenovo",
-      "logo": "Manufacturers/LenovoLogo",
+      "logo": "Manufacturers/lenovo",
       "options": [
          {
             "id": "bootMenuKey",
@@ -173,7 +173,7 @@
    {
       "id": "nec",
       "manufacturer": "NEC",
-      "logo": "Manufacturers/NECLogo",
+      "logo": "Manufacturers/nec",
       "options": [
          {
             "id": "bootMenuKey",
@@ -192,7 +192,7 @@
    {
       "id": "packardbell",
       "manufacturer": "Packard Bell",
-      "logo": "Manufacturers/PackardBellLogo",
+      "logo": "Manufacturers/packardbell",
       "options": [
          {
             "id": "bootMenuKey",
@@ -211,7 +211,7 @@
    {
       "id": "samsung",
       "manufacturer": "Samsung",
-      "logo": "Manufacturers/SamsungLogo",
+      "logo": "Manufacturers/samsung",
       "options": [
          {
             "id": "bootMenuKey",
@@ -230,7 +230,7 @@
    {
       "id": "sony",
       "manufacturer": "Sony",
-      "logo": "Manufacturers/SonyLogo",
+      "logo": "Manufacturers/sony",
       "options": [
          {
             "id": "bootMenuKey",
@@ -249,7 +249,7 @@
    {
       "id": "toshiba",
       "manufacturer": "Toshiba",
-      "logo": "Manufacturers/ToshibaLogo",
+      "logo": "Manufacturers/toshiba",
       "options": [
          {
             "id": "bootMenuKey",
@@ -262,6 +262,139 @@
            "name_en": "BIOS Key",
            "name_fr": "Touche du BIOS",
            "key": "F2"
+         }
+      ]
+   },
+   {
+      "id": "asrock",
+      "manufacturer": "ASRock",
+      "logo": "Manufacturers/asrock",
+      "options": [
+         {
+            "id": "bootMenuKey",
+            "name_en": "Boot Menu Key",
+            "name_fr": "Touche du menu de démarrage",
+            "key": "F11"
+         },
+         {
+           "id": "biosKey",
+           "name_en": "BIOS Key",
+           "name_fr": "Touche du BIOS",
+           "key": "F2"
+         }
+      ]
+   },
+   {
+      "id": "gigabyte",
+      "manufacturer": "Gigabyte",
+      "logo": "Manufacturers/gigabyte",
+      "options": [
+         {
+            "id": "bootMenuKey",
+            "name_en": "Boot Menu Key",
+            "name_fr": "Touche du menu de démarrage",
+            "key": "F12"
+         },
+         {
+           "id": "biosKey",
+           "name_en": "BIOS Key",
+           "name_fr": "Touche du BIOS",
+           "key": "Del"
+         }
+      ]
+   },
+   {
+      "id": "msi",
+      "manufacturer": "MSI",
+      "logo": "Manufacturers/msi",
+      "options": [
+         {
+            "id": "bootMenuKey",
+            "name_en": "Boot Menu Key",
+            "name_fr": "Touche du menu de démarrage",
+            "key": "F11"
+         },
+         {
+           "id": "biosKey",
+           "name_en": "BIOS Key",
+           "name_fr": "Touche du BIOS",
+           "key": "Del"
+         }
+      ]
+   },
+   {
+      "id": "intel",
+      "manufacturer": "Intel",
+      "logo": "Manufacturers/intel",
+      "options": [
+         {
+            "id": "bootMenuKey",
+            "name_en": "Boot Menu Key",
+            "name_fr": "Touche du menu de démarrage",
+            "key": "F10"
+         },
+         {
+           "id": "biosKey",
+           "name_en": "BIOS Key",
+           "name_fr": "Touche du BIOS",
+           "key": "F2"
+         }
+      ]
+   },
+   {
+      "id": "compaq",
+      "manufacturer": "Compaq",
+      "logo": "Manufacturers/compaq",
+      "options": [
+         {
+            "id": "bootMenuKey",
+            "name_en": "Boot Menu Key",
+            "name_fr": "Touche du menu de démarrage",
+            "key": "Esc/F9"
+         },
+         {
+           "id": "biosKey",
+           "name_en": "BIOS Key",
+           "name_fr": "Touche du BIOS",
+           "key": "F10"
+         }
+      ]
+   },
+   {
+      "id": "fujitsu",
+      "manufacturer": "Fujitsu",
+      "logo": "Manufacturers/fujitsu",
+      "options": [
+         {
+            "id": "bootMenuKey",
+            "name_en": "Boot Menu Key",
+            "name_fr": "Touche du menu de démarrage",
+            "key": "F12"
+         },
+         {
+           "id": "biosKey",
+           "name_en": "BIOS Key",
+           "name_fr": "Touche du BIOS",
+           "key": "F2"
+         }
+      ]
+   },
+   {
+      "id": "microsoft",
+      "manufacturer": "Microsoft",
+      "logo": "Manufacturers/microsoft",
+      "options": [
+         {
+            "id": "bootMenuKey",
+            "name_en": "Boot Menu Key",
+            "name_fr": "Touche du menu de démarrage",
+            "key": "N/A"
+         },
+         {
+           "id": "biosKey",
+           "name_en": "BIOS Key",
+           "name_fr": "Touche du BIOS",
+           "key": "Volume Up + Power"
          }
       ]
    }
